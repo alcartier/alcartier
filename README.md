@@ -16,7 +16,7 @@
 
 Passionné de jeux vidéo et de programmation, toujours curieux de comprendre comment les choses fonctionnent vraiment — que ce soit pour créer un jeu ou développer un logiciel. Mon objectif : apprendre en continu et progresser à chaque projet.
 
-🚀 En ce moment, je jongle entre développement de jeux (Unity / C++) et petits projets embarqués.
+En ce moment, je jongle entre développement de jeux (Unity / C++) et petits projets embarqués.
 
 <br>
 
@@ -24,7 +24,7 @@ Passionné de jeux vidéo et de programmation, toujours curieux de comprendre co
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,csharp,unity,php,mysql,js,html,css,vscode,arduino" alt="Stack technique"/>
+<img src="https://skillicons.dev/icons?i=cpp,c#,unity,php,mysql,js,html,css,vscode,arduino" alt="Stack technique"/>
 
 </div>
 
@@ -34,9 +34,9 @@ Passionné de jeux vidéo et de programmation, toujours curieux de comprendre co
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TonProfil)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TonID)
-[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandrecartierl)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/firefox42c)
+[![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firefox42c@gmail.com)
 
 </div>
 
