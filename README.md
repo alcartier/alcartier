@@ -3,8 +3,8 @@
 # Alexandre Cartier
 ### Développeur passionné · Étudiant à l'UCA
 
-<img src="https://komarev.com/ghpvc/?username=AlexandreCartier&style=flat-square&color=blueviolet" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/AlexandreCartier?style=flat-square&color=blueviolet&label=Followers" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=alcartier&style=flat-square&color=blueviolet" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/alcartier?style=flat-square&color=blueviolet&label=Followers" alt="Followers"/>
 
 </div>
 
