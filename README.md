@@ -1,7 +1,6 @@
 <div align="center">
 
 # Alexandre Cartier
-### *aka Firefox*
 ### Développeur passionné · Étudiant à l'UCA
 
 <img src="https://komarev.com/ghpvc/?username=AlexandreCartier&style=flat-square&color=blueviolet" alt="Profile views"/>
