@@ -46,11 +46,11 @@ En ce moment, je jongle entre développement de jeux (Unity / C++) et petits pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlexandreCartier&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreCartier&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=alcartier&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcartier&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="165"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=AlexandreCartier&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=alcartier&theme=dark&hide_border=true" alt="GitHub Streak"/>
 
 </div>
