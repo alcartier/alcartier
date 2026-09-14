@@ -24,7 +24,7 @@ En ce moment, je jongle entre développement de jeux (Unity / C++) et petits pro
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c#,unity,php,mysql,js,html,css,vscode,arduino" alt="Stack technique"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,unity,php,mysql,js,html,css,vscode,arduino" alt="Stack technique"/>
 
 </div>
 
