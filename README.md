@@ -1,7 +1,7 @@
 <div align="center">
 
 # Alexandre Cartier
-### Développeur passionné · Étudiant à l'UCA
+### Passionate Developer · Student at UCA
 
 <img src="https://komarev.com/ghpvc/?username=alcartier&style=flat-square&color=blueviolet" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/alcartier?style=flat-square&color=blueviolet&label=Followers" alt="Followers"/>
@@ -10,27 +10,27 @@
 
 <br>
 
-## 🎓 À propos
+## 🎓 About Me
 
-**Étudiant en BUT Informatique Graphique** — IUT du Puy-en-Velay (Université Clermont Auvergne)
+**BUT Student in Computer Graphics** — IUT du Puy-en-Velay (Clermont Auvergne University)
 
-Passionné de jeux vidéo et de programmation, toujours curieux de comprendre comment les choses fonctionnent vraiment — que ce soit pour créer un jeu ou développer un logiciel. Mon objectif : apprendre en continu et progresser à chaque projet.
+Passionate about video games and programming, always curious to understand how things truly work — whether it's creating a game or developing software. My goal: continuously learn and improve with every project.
 
-En ce moment, je jongle entre développement de jeux (Unity / C++) et petits projets embarqués.
+Currently, I'm juggling game development (Unity / C++) and small embedded projects.
 
 <br>
 
-## 🧰 Mes stacks techniques
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,unity,php,mysql,js,html,css,vscode,arduino" alt="Stack technique"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,unity,php,mysql,js,html,css,vscode,arduino" alt="Tech stack"/>
 
 </div>
 
 <br>
 
-## 🔗 Me contacter
+## 🔗 Contact Me
 
 <div align="center">
 
