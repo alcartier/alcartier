@@ -46,7 +46,8 @@ En ce moment, je jongle entre développement de jeux (Unity / C++) et petits pro
 
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=alcartier&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcartier&layout=compact&theme=dark&hide_border=true" alt="Top Langs" height="165"/>
 
 <br>
 
